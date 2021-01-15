@@ -1,5 +1,5 @@
 # Project: ReactJS Messenger by Rodrigo M. Gimenes 
-# ===========================================
+# ========================================
 
   ## File:
 
@@ -8,7 +8,6 @@
   ## Description:
   Personal Project - Messenger using ReactJs and Socket.io
 
-
   ## Instructions:
 
   * This application is a personal project, which is based on concepts of ReactJs, Hooks, and Socket.io.
@@ -16,7 +15,7 @@
   * The application allows users to send and receive messages in real-time.
 
   * How to use?
-    If you are running the application on Netlify:
+    If you are running the application on Netlify ( * COMING SOON ):
     1. Before running, open file "/client/src/db/contact.json" and choose one of the IDs availables;
     2. Insert the chosen ID to login and press ENTER on your keyboard;
     3. Open an "Incognito Window" on your browser (File > New Incognito Window);
